@@ -12,7 +12,7 @@
 
 ✽ Tool used:-
 
-Power BI
+• Power BI
 
 ✽ Insights of this Projects:-
 
