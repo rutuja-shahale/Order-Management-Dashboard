@@ -16,3 +16,20 @@
 
 ✽ Insights of this Projects:-
 
+"E-commerce Sales Dashboard"
+
+![Ecommerce Sales Dashboard](https://github.com/rutuja-shahale/Ecommerce-Sales-Dashboard/assets/173451914/c18badad-4fd2-4f83-8043-897cc98120ed)
+
+• Amount by Store: Bar chart highlighting sales amounts across different states, with Maharashtra leading, followed by Madhya Pradesh, Uttar Pradesh, and Delhi.
+
+• Amount by Customer Name: Bar chart displaying top customers contributing significantly to sales, such as Harinavsh, Madhav, Madan Mohan, and Shiva.
+
+• Profit by Month: Bar chart showing monthly profit trends, with peaks in January, April, and November, and a noticeable dip in June.
+
+• Quantity by Category: Pie chart showing distribution of sales across categories, with Clothing at 63%, Electronics at 21%, and Furniture at 17%.
+
+• Quantity by Payment Mode: Pie chart depicting payment mode distribution, with Cash on Delivery (COD) at 44%, UPI at 21%, Debit Card at 16%, Credit Card at 12%, and EMI at 10%.
+
+• Profit by Sub-Category: Bar chart indicating profit across sub-categories, highlighting Printers, Bookcases, Saree, Accessories, and Tables.
+
+
