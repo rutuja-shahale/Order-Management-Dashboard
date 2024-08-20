@@ -18,7 +18,7 @@
 
 "E-commerce Sales Dashboard"
 
-![Ecommerce Sales Dashboard](https://github.com/rutuja-shahale/Ecommerce-Sales-Dashboard/assets/173451914/c18badad-4fd2-4f83-8043-897cc98120ed)
+![Screenshot (39)](https://github.com/user-attachments/assets/e94a06f1-5b1c-4f43-a266-5438a97ad164)
 
 • Amount by Store: Bar chart highlighting sales amounts across different states, with Maharashtra leading, followed by Madhya Pradesh, Uttar Pradesh, and Delhi.
 
