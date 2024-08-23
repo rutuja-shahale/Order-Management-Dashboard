@@ -16,7 +16,7 @@
 
 ✽ Insights of this Projects:-
 
-"E-commerce Sales Dashboard"
+"Order Management Dashboard"
 
 ![Screenshot (39)](https://github.com/user-attachments/assets/e94a06f1-5b1c-4f43-a266-5438a97ad164)
 
